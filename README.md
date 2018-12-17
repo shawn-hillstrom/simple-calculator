@@ -16,9 +16,9 @@ This project is an implementation of a simple calculator UI using C++ in conjunc
 
 **main.cpp:** Contains everything required to run the UI.
 
-**calculator.h:** Header file for **calculator.c** containing class, container, and prototype definitions.
-
 **calculator.c:** Contains everything required to implement functionality for the UI.
+
+**calculator.h:** Header file for **calculator.c** containing class, container, and prototype definitions.
 
 **mainwindow.ui:** The UI, created in Qt Designer.
 
